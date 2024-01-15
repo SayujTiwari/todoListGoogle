@@ -1,8 +1,7 @@
-# React + Vite
+# Todo List w/ Google Calendar API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uses the google calendar api, to connect the items added to the todo List to your google calendar.
 
-Currently, two official plugins are available:
+Allows you to add the task to the deadline date, so that users are able to remember to finish their tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Uses react framework to create a decent ui, that makes it clear on how to use the program to users.
